@@ -24,7 +24,7 @@ class Quiz : AppCompatActivity() {
             "South Africa has 11 official provinces",//F
             "The judicial capital of South Africa is Johannesburg",//F
             "The world's largest diamond was found in South Africa",//T
-            "The first world war began on September 1 1914",//F
+            "The first world war began on 1 September 1914",//F
             "Nelson Mandela natively spoke Xhosa",//T
             "South Africa is home to the largest wine route"//T
         )
