@@ -64,7 +64,7 @@ class score_review : AppCompatActivity() {
         // Exit the application
         exitBtn2.setOnClickListener {
             finishAffinity()
-            exitProcess(0)
+        exitProcess(0)
         }
     }
 }
