@@ -6,17 +6,17 @@
 - Course: HMAW0501
 - Subject: IMAD5112
 
-Links
+##Links
 GitHub Repository: https://github.com/VCSTDN2024/imad5112-assignment-2-Letaataa1-Thabile-Sefoloshe
-- YouTube Video: https://youtu.be/z9Nl3lAvfYY
+- YouTube Video: https://youtu.be/8aL6twAkvTo
 
 ---
-Project Overview
+##Project Overview
 
 Quizly is a mobile application I developed as part of my IMAD5112 subject assignment. This application was created using Kotlin and Android Studio. The app's pivotal purpose is to  provide the users with a fun interactive environment to enhance and challenge their knowledge on history.
 ---
 
-Purpose and Features
+##Purpose and Features
 
 Purpose:
 The focal objective of the application is for users to answer a variety of historical questions in order to test and challenge their knowledge.
@@ -31,7 +31,7 @@ These features aim to provide the user with a fun and interactive experience whe
 
 ---
 
-Design Considerations
+##Design Considerations
 
 The design of the Quizly app was based on the following key considerations:
 
@@ -41,24 +41,28 @@ The design of the Quizly app was based on the following key considerations:
 2. Simplicity: The design aspect of the application is diverting and fundamental, centring the key features within the application  to the user.
  ---
 
-Screenshots
+##Screenshots
 
 App Screenshots:
-Home screen("C:\Users\sleta\OneDrive\Pictures\Screenshots\Screenshot 2025-05-07 175313.png")
+Home screen ![Screenshot 2025-05-07 175313](https://github.com/user-attachments/assets/8085a550-a627-48b5-881a-3b638f6ac269)
+
 Home screen of the application displaying the application title, slogan, logo, start button and exit button.
 
-Quiz screen]("C:\Users\sleta\OneDrive\Pictures\Screenshots\Screenshot 2025-05-07 175413.png")
+Quiz screen ![Screenshot 2025-05-07 175413](https://github.com/user-attachments/assets/3885cc12-6560-4c9c-a36b-d95770542b08)
+
+Quiz screen ![Screenshot_2025 05 20_20 00 40 872](https://github.com/user-attachments/assets/5bf3bb66-6562-4b50-9266-c6e42fa2352c)
+
 The Quiz screen displays questions to the user including contain two "true" and "false" buttons for the user to answer. A third "next" button is also present for users to progress through the questions and to the following screen.
 
-Score and Review screen("C:\Users\sleta\OneDrive\Pictures\Screenshots\Screenshot 2025-05-07 175449.png")
+Score and Review screen ![Screenshot 2025-05-07 175449](https://github.com/user-attachments/assets/ec839e37-38e6-4380-8956-ef2245bf7ffc)
 The Score and Review screen display the score, feedback to the user and review based on results obtained,
 
-Video Demo:
-A video showcasing the app's functionality can be viewed here: https://youtu.be/z9Nl3lAvfYY.
+##Video Demo:
+A video showcasing the app's functionality can be viewed here: https:https://youtu.be/8aL6twAkvTo.
 
 ---
 
-Challenges and Learnings
+##Challenges and Learnings
 
 During the development of this project, I encountered several challenges, including:
 
@@ -69,7 +73,7 @@ During the development of this project, I encountered several challenges, includ
 Solution: The solution I implemented for both of the challenges I encountered was to begin a new second application from scratch. Despite the other solutions I tried my outmost to implement I was unsuccessful. Leaving me with no other option due to the constrain of time but to begin a new project.
 ---
 
-Future Enhancements
+##Future Enhancements
 
 While the current version of the application provides core functionality, there are however few features I will implement to enhance the app, including:
 
@@ -77,7 +81,7 @@ While the current version of the application provides core functionality, there 
 2. Timeframe to complete quiz: This feature will challenge the user's of the application allowing it to be more engaging and insightful.
 ---
 
-References
+##References
 
 1. The Independent Institute of Education (IIE), 2025. Introduction To Mobile Application Development [IMAD5112 Module Manuel 2025]. The Independent Institute of Education: Unpublished. 
 
@@ -88,6 +92,8 @@ References
 4. Pngtree, 2021. Purple sphere background wallpaper image. [electronic print]. Available at: <https://pngtree.com/freebackground/purple-gradient-sphere-background_962256.html> [Accessed 29 April 2025].
 
 5. Pngmart, 2022. Quiz PNG  images transparent free download. [electronic print]. Available at: <https://www.pngmart.com/image/tag/quiz> [Accessed 01 May 2025].
+
+6. BuzzFeed, 2023. Can You Go 14/14 On This True Or False General History Qiz?. [online] Available at: <https://www.buzzfeed.com/princessjoy123/true-or-false-history-trivia-quiz> .[Accessed 29 April 2025].
 
 
 
